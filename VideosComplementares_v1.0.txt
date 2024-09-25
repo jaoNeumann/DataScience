@@ -1,0 +1,104 @@
+Nos vídeos do youtube:
+Clicar em Legendas / Legendas ocultas
+Caso não esteja em pt-bt, clicar na engrenagem ao lado, 
+selecionar legendas cc, logo após clicar em traduzir automaticamente
+e selecionar português.
+Procure estudar os tópicos na ordem apresentada de 1 a 11.
+
+1- Introdução ao Machine Learning:
+link:
+https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLhSqZY-Zd9vGMMNbEF0BqH0pp34Aawcaz
+
+
+2- Explicação sobre a lógica de Verdadeiro e Falso (matriz de confusão) 
+para avaliar a performance de modelos de classificação supervisionada.
+link:
+https://www.youtube.com/watch?v=Kdsp6soqA7o
+
+
+3- Precisão, Recall, Acurárcia, taxa de falsos positivos.
+link:
+https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=pt-br
+
+
+4- Vídeo sobre árvores de decisão.
+link:
+https://www.youtube.com/watch?v=_L39rN6gz7Y
+
+5- Video complementar, introdução a RandomForests:
+link parte 1:
+https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+link parte 2:
+https://www.youtube.com/watch?v=sQ870aTKqiM
+
+6-Regressão Logísitica.
+link:
+https://www.youtube.com/watch?v=yIYKR4sgzI8&t=255s
+
+Artigo em texto, regressão logística:
+link(traduzido para o pt-br)
+https://developers.google.com/machine-learning/crash-course/logistic-regression/sigmoid-function?hl=pt-br
+
+
+7- AUC - ROC
+
+Explicação principal:
+link (Legendado PT-BR):
+https://www.youtube.com/watch?v=4jRBRDbJemM&t=634s
+
+Vídeo em inglês, explicando a curva roc e fazendo considerações sobre o
+limiar de classificação:
+link:
+https://www.youtube.com/watch?v=OAl6eAyP-yo
+
+Explicação em inglês:
+https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
+
+Outras explicações sobre AUC-ROC:
+
+link a (pt-br):
+https://mariofilho.com/guia-completo-sobre-roc-auc-em-machine-learning/
+
+link b (pt-br):
+https://medium.com/bio-data-blog/entenda-o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-8191fb4df772
+
+link c (traduzido):
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=pt-br
+
+
+8- Distribuição Normal:
+
+Link parte 1:
+https://www.youtube.com/watch?v=tDLcBrLzBos
+Link: parte 2
+https://www.youtube.com/watch?v=iiRiOlkLa6A
+
+9- Variância:
+link:
+https://www.youtube.com/watch?v=SzZ6GpcfoQY
+link complementar:
+https://www.youtube.com/watch?v=sHRBg6BhKjI
+
+10- Covariância:
+link:
+https://www.youtube.com/watch?v=qtaqvPAeEJY&t=3s
+
+
+11- Correlação de Pearson:
+
+Explicação principal:
+Link:
+https://www.youtube.com/watch?v=xZ_z8KWkhXE&t=58s
+
+Outra explicação: 
+link parte 1 
+https://www.youtube.com/watch?v=s0mBShFFW6o
+link parte2 
+https://www.youtube.com/watch?v=EvaFu9eIzWI
+
+
+
+
+
+
+
